@@ -6,6 +6,7 @@ body {
   height: 100%vh;
   padding: 0;
   margin: 0;
+  background-color: blanchedalmond;
 }
 h1,
 h6,
@@ -15,6 +16,9 @@ h2 {
 }
 h6 {
     font-size: 30px;
+    
+    
+    
 }
 
 .image {
@@ -23,7 +27,7 @@ h6 {
   height: 500px;
   margin: 90px auto;
   background-color: #333;
-  border: 5px solid fuchsia;
+  border: 8px solid fuchsia;
   border-radius: 8px;
 }
 img {
